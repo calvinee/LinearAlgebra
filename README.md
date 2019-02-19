@@ -40,8 +40,8 @@ PDF笔记：[第六讲_LU分解](第六讲_LU分解.pdf)
 -----------------------------------------------
 
 # 参考资料
-[清华大学线性代数（上）](http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421094X_2015_2+sp/courseware/76976b23e6b24131a5fc9b5e3426e573/b45d1e9e41e14ff89721ede4c3547978/)       
-[清华大学线性代数（下）](http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421102x_2015_T2+sp/courseware/89d32b8cb2fd4c30a0e5c52943048db8/7ed96e1911634f27b3c43eeaee5950ac/)     
+[清华大学线性代数（上）](http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421094X_2015_2+sp/about)       
+[清华大学线性代数（下）](http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421102x_2015_T2+sp/about)     
 [理解矩阵—孟岩](https://blog.csdn.net/myan/article/details/647511)       
 [超详细MIT线性代数公开课笔记(上中下)](https://wenku.baidu.com/view/daac42a977eeaeaad1f34693daef5ef7ba0d129a.html)      
 [MIT 线性代数 （公开课）](http://open.163.com/special/opencourse/daishu.html)    
