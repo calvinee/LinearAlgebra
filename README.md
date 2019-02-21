@@ -1,4 +1,4 @@
-【[Home](https://simplelp.github.io/) | [GitHub](https://github.com/SimpleLP/LinearAlgebra)】         
+【[Home](https://simplelp.github.io/)】         
 本系列文章归纳整理线性代数与矩阵理论相关内容，线性代数的核心是求解线性方程组，矩阵是进行计算的很有用的工具
 
 ---------------------------------------------------------------------
