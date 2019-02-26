@@ -63,9 +63,10 @@ PDF笔记：[第十讲_线性无关基与维数](第十讲_线性无关基与维
 -----------------------------------------------
 
 # 参考资料
-[清华大学线性代数（上）](http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421094X_2015_2+sp/about)       
-[清华大学线性代数（下）](http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421102x_2015_T2+sp/about)     
-[理解矩阵—孟岩](https://blog.csdn.net/myan/article/details/647511)       
-[超详细MIT线性代数公开课笔记(上中下)](https://wenku.baidu.com/view/daac42a977eeaeaad1f34693daef5ef7ba0d129a.html)      
-[MIT 线性代数 （公开课）](http://open.163.com/special/opencourse/daishu.html)    
-[Introduction to Linear Algebra, Fifth Edition](http://math.mit.edu/~gs/linearalgebra/)      
+- [清华大学线性代数（上）](http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421094X_2015_2+sp/about)       
+- [清华大学线性代数（下）](http://www.xuetangx.com/courses/course-v1:TsinghuaX+10421102x_2015_T2+sp/about)     
+- [理解矩阵—孟岩](https://blog.csdn.net/myan/article/details/647511)       
+- [超详细MIT线性代数公开课笔记(上中下)](https://wenku.baidu.com/view/daac42a977eeaeaad1f34693daef5ef7ba0d129a.html)
+- [杜云涛同学的线性代数笔记](https://zealscott.com/blog/notes-on-linear-algebra/)
+- [MIT 线性代数 （公开课）](http://open.163.com/special/opencourse/daishu.html)    
+- [Introduction to Linear Algebra, Fifth Edition](http://math.mit.edu/~gs/linearalgebra/)      
