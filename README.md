@@ -82,3 +82,4 @@ PDF笔记：[第十一讲_四个基本子空间的基和维数](第十一讲_四
 - [线性代数的本质](https://www.bilibili.com/video/av6731067/)
 - [MIT 线性代数 （公开课）](http://open.163.com/special/opencourse/daishu.html)    
 - [Introduction to Linear Algebra, Fifth Edition](http://math.mit.edu/~gs/linearalgebra/)      
+- [矩阵奇异值分解(SVD)及其应用（PCA）](https://www.jianshu.com/p/e574e91070ad)
